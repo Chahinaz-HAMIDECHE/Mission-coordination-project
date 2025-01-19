@@ -1,4 +1,4 @@
-# Go_to_flag
+# Mission-coordination-project
 
 ## Project Overview
 This project involves simulating a multi-robot system in ROS and Gazebo. The goal is to coordinate three robots to move to their respective flags (robot1 → flag1, robot2 → flag2, robot3 → flag3) while avoiding collisions. The simulation demonstrates strategies for robot movement, including obstacle avoidance and timing-based coordination.
